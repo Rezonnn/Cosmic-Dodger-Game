@@ -1,4 +1,4 @@
-# 🎮 Cosmic Dodger Neon (v2)
+# 🎮 Cosmic Dodger Neon
 
 A upgraded version of the **Cosmic Dodger** HTML5 canvas game:
 

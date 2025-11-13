@@ -41,5 +41,3 @@ http://localhost:8000
 ```text
 https://<username>.github.io/cosmic-dodger-neon/
 ```
-
-Perfect as a **playable game project** in your portfolio.
